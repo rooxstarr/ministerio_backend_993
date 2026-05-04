@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppHogwartsSB {
+public class AppGobiernoSB {
 
     public static void main(String[] args) {
-        SpringApplication.run(AppHogwartsSB.class, args);
+        SpringApplication.run(AppGobiernoSB.class, args);
 
     }
 
